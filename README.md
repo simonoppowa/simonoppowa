@@ -45,7 +45,7 @@ OpenNutriTracker is a free and open-source calorie tracker built for simplicity,
 </p>
 <p align="center">
   <a href="https://github.com/simonoppowa/OpenNutriTracker"><img src="https://raw.githubusercontent.com/simonoppowa/OpenNutriTracker/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3_en-US.png" alt="OpenNutriTracker screenshot 3" width="220" /></a>
-  <a href="https://raw.githubusercontent.com/simonoppowa/OpenNutriTracker/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4_en-US.png"><img src="https://raw.githubusercontent.com/simonoppowa/OpenNutriTracker/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4_en-US.png" alt="OpenNutriTracker screenshot 4" width="220" /></a>
+  <a href="https://github.com/simonoppowa/OpenNutriTracker"><img src="https://raw.githubusercontent.com/simonoppowa/OpenNutriTracker/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4_en-US.png" alt="OpenNutriTracker screenshot 4" width="220" /></a>
 </p>
 
 Also part of the ecosystem: [OpenNutriTracker-Backend](https://github.com/simonoppowa/OpenNutriTracker-Backend) — the backend service supporting the project.
